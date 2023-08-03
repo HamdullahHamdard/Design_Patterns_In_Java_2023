@@ -34,6 +34,8 @@ $ C:\Users\Hamdard\Desktop\Design Patterns> Code .
 
 * Open and run your desired [Design Pattern]().
 
+* State [Design Pattern]() is remaind
+
 
 * Thank you....
 
